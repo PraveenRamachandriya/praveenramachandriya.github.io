@@ -6,12 +6,9 @@ I am a hardware and embedded systems engineer passionate about creating scalable
 
 ## 🔭 Current Work & Research
 - **Vehicular Communication (V2X):** Developing robust V2X, V2I, and V2V communication architectures tailored for Indian traffic scenarios using LoRa and ESP32 platforms.
-- **Project Naksha:** Developing a primary Convey Control dashboard transitioning to NavIC-exclusive positioning using the L89 module.
-- **Project Intelliseat:** Integrating pressure-sensitive driver monitoring mats with the Naksha navigation dashboard.
-- **Smart Helmet System:** Architecting an IoT-enabled safety helmet featuring fall detection, alcohol sensing, and vehicle ignition interlock control.
 
 ## 🛠️ Technical Arsenal
-- **Microcontrollers & Platforms:** ESP32-S3, ESP32-C6, Custom PCB Design
+- **Microcontrollers & Platforms:** ESP32-S3, ESP32-C6, ESP32-P4, IPQ6018, SLM758
 - **Firmware & Frameworks:** ESP-IDF, C/C++, FreeRTOS, Embedded Systems Programming
 - **Operating Systems & Environments:** Linux (Ubuntu), Termux, PRoot/Andronix
 - **Protocols & Communication:** LoRa, UART, I2C, SPI, V2X standards
